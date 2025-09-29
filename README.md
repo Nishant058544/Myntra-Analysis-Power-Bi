@@ -92,4 +92,5 @@ The dashboard helps **business stakeholders and analysts** explore:
 ## ⚙️ How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/myntra-sales-analysis.git
+   git clone https://github.com/Nishant058544/Myntra-Analysis-Power-Bi.git
+
