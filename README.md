@@ -1,37 +1,95 @@
-🔖 Project Overview
+# 🛍️ Myntra Sales Analysis — Power BI Dashboard
 
-Myntra Sales Analysis is an interactive Power BI dashboard that visualizes e-commerce sales data to surface business insights such as brand and category performance, seasonal/weekly trends, regional order distribution, and product-level metrics.
-This repository contains the Power BI .pbix file, sample dataset(s), assets, and documentation to reproduce and extend the dashboard.
+An **interactive Power BI dashboard** built to analyze Myntra’s e-commerce sales data.  
+The project provides **actionable business insights** such as brand and category performance, seasonal trends, regional order distribution, and product-level metrics.
 
-📊 Myntra Sales Analysis — Power BI Dashboard
+---
 
-Dashboard:
+## 🔖 Project Overview
+This repository contains:
+- 📊 Power BI dashboard file (`.pbix`)
+- 📂 Sample dataset(s)
+- 📎 Assets and documentation
+
+The dashboard helps **business stakeholders and analysts** explore:
+- How sales vary across **brands, categories, and seasons**
+- Regional differences in order distribution
+- Performance of **specific products, sizes, and colors**
+- The impact of discounts on sales
+
+---
+
+## 📊 Dashboard Preview
 <img width="1788" height="772" alt="Image" src="https://github.com/user-attachments/assets/da4c996c-b576-4711-bd3f-6a61f48ccebb" />
+---
 
-🧭 Features & Visuals
+## 🧭 Features & Visuals
 
-Slicers / Filters: Year (2021–2023), Brand, Sub-category, Product, Size, Category
+### 🔎 Slicers / Filters
+- Year: `2021 – 2023`
+- Brand  
+- Sub-category  
+- Product  
+- Size  
+- Category  
 
-KPI cards: Total Products, Avg Rating, Orders, Avg Discount %, Total Sales
+### 📌 KPI Cards
+- Total Products  
+- Average Rating  
+- Total Orders  
+- Average Discount %  
+- Total Sales  
 
-Trend charts: Sales & Discount by Month, Sales by Weekdays
+### 📈 Trend Charts
+- Sales & Discount by **Month**
+- Sales by **Weekdays**
 
-Distribution visuals: Product distribution, Brand distribution, Size distribution, Color distribution
+### 📦 Distribution Visuals
+- Product distribution  
+- Brand distribution  
+- Size distribution  
+- Color distribution  
 
-Geography: Orders Distribution by Region (map) and State-wise bar chart
+### 🌍 Geographic Insights
+- Orders distribution by **Region (Map)**
+- State-wise orders (Bar chart)
 
-Ranking & Tables: Category ranking by sales, Brand-level table with Orders / Avg_Sales / Avg_discount
+### 🏆 Rankings & Tables
+- **Category Ranking** by Sales  
+- **Brand-level Table** with Orders / Avg. Sales / Avg. Discount
 
-Donut chart: Orders distribution by category (Women / Men / Kids / Beauty)
+### 🍩 Donut Chart
+- Orders distribution by **Category**  
+  *(Women / Men / Kids / Beauty)*
 
-Insights...
-1.Men were on rank-1 for in year 2021 & it dropped down to rank-2 in 2022 in terms of sales
-and rank of women for same has raised from 2 to 1.
-2.Quarter wise there is no change in rank for any category or we can quarterly rank was
-constant.
-3.There is 29% decrease in sales for men category from Qtr-1 to Qtr-2, & which is 34% in the
-case of women, 18% for kids and 27% in beauty products category.
-4.Ahmedabad city is placing highest orders in Gujrat, Bengaluru is highest order placing city
-which is in Karnataka.
-5.Cantabil brand is offering least discount for women’s jeans
-6.Highest sales by men were made on Friday.
+---
+
+## 💡 Key Insights
+1. **Category Trend:**  
+   - Men ranked #1 in sales in **2021** but dropped to #2 in **2022**, while Women rose to #1.  
+
+2. **Quarterly Performance:**  
+   - No rank changes across quarters; ranking remained constant.  
+
+3. **Quarter-wise Sales Drop:**  
+   - Men: ↓ 29% (Q1 → Q2)  
+   - Women: ↓ 34%  
+   - Kids: ↓ 18%  
+   - Beauty: ↓ 27%
+
+4. **Regional Insights:**  
+   - Ahmedabad recorded the **highest orders in Gujarat**.  
+   - Bengaluru recorded the **highest orders in Karnataka** and overall.
+
+5. **Brand-level Finding:**  
+   - *Cantabil* offers the **least discount** for Women’s Jeans.
+
+6. **Weekly Trend:**  
+   - **Friday** saw the highest sales for the Men’s category.
+
+---
+
+## ⚙️ How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/myntra-sales-analysis.git
