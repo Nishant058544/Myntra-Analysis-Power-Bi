@@ -6,7 +6,7 @@ This repository contains the Power BI .pbix file, sample dataset(s), assets, and
 📊 Myntra Sales Analysis — Power BI Dashboard
 
 Dashboard:
-https://github.com/Nishant058544/Myntra-Analysis-Power-Bi/issues/1#issue-3464144686
+<img width="1788" height="772" alt="Image" src="https://github.com/user-attachments/assets/da4c996c-b576-4711-bd3f-6a61f48ccebb" />
 
 🧭 Features & Visuals
 
